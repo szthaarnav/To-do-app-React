@@ -36,32 +36,32 @@ A simple and interactive to-do list application built with React. Users can add 
 ### Prerequisites
 Make sure you have the following installed:
 - **Node.js** (LTS recommended)
-- **npm** or **yarn**
+- **npm**
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/szthaarnav/To-do-app-React.git
-```
+      git clone https://github.com/szthaarnav/To-do-app-React.git
+   ```
 
-2. Navigate into the project directory:
-```bash
-   cd To-do-app-React
-```
+2. **Navigate into the project directory:**
+   ```bash
+      cd To-do-app-React
+   ```
 
-3.Install dependencies:
-```bash
-   npm install
-```
+3. **Install dependencies:**
+   ```bash
+      npm install
+   ```
 Then open
 - http://localhost:3000
 
 ### Running Tests
 
-This project includes a basic React render test (src/App.test.js).
+*This project includes a basic React render test (src/App.test.js).*
 
-Run tests with:
-```bash
-   npm test
-```
+**Run tests with:**
+   ```bash
+      npm test
+   ```
